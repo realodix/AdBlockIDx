@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdBlockID Plus
-! Last modified: Fri, 05 Dec 2025 19:36:12 GMT
+! Last modified: Fri, 05 Dec 2025 19:39:45 GMT
 ! Description: Ekstensi untuk menambah cakupan situs yang tidak dapat dijangkau oleh AdBlockID.
 ! Expires: 6 days
 ! Homepage: https://github.com/realodix/AdBlockID
