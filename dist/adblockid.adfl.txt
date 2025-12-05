@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdBlockID
-! Last modified: Fri, 05 Dec 2025 19:39:45 GMT
+! Last modified: Fri, 05 Dec 2025 19:43:22 GMT
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
 ! Expires: 1 days
 ! Homepage: https://github.com/realodix/AdBlockID
