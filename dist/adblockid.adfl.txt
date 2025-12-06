@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdBlockID
-! Last modified: Sat, 06 Dec 2025 17:19:52 GMT
+! Last modified: Sat, 06 Dec 2025 17:26:14 GMT
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
 ! Expires: 1 days
 ! Homepage: https://github.com/realodix/AdBlockID
@@ -3724,6 +3724,7 @@ uzone.id##.text-scroll
 genpi.co##article [class^="_popIn_"]:has-text(/adv/i)
 marketeers.com##article [class^="bg-gray-"]:has-text(/adv/i)
 idntimes.com###hidden-parallax
+#@#[id^="google_ads_iframe"]
 kuyhaa.me##+js(aeld, load, daadb_get_data)
 adikcloud.my.id,adikdrive.my.id##+js(aopr, adBlockDetected)
 blog-dnz.com##+js(aopr, isAdBlockedDOM)
