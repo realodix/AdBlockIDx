@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdBlockID
-! Last modified: Sat, 06 Dec 2025 10:40:46 GMT
+! Last modified: Sat, 06 Dec 2025 17:01:36 GMT
 ! Description: Filter list that specifically removes adverts on Indonesian language websites.
 ! Expires: 1 days
 ! Homepage: https://github.com/realodix/AdBlockID
@@ -1626,7 +1626,6 @@ passatworld.ru#@##ad_global_below_navbar
 ||services.7searchppc.com/api/adscript$domain=tintainformasi.com
 /\/[0-9a-f]{32}\/invoke\.js/$third-party,script,redirect-rule=noopjs
 ||vakawi.xyz^$3p,script
-aa
 -1000-x-300-$image,domain=kabarjawa.com
 -1024x154-$image,domain=lensanusantara.id
 -1024x174.$image,domain=beritakitanews.com
@@ -3725,7 +3724,6 @@ uzone.id##.text-scroll
 genpi.co##article [class^="_popIn_"]:has-text(/adv/i)
 marketeers.com##article [class^="bg-gray-"]:has-text(/adv/i)
 idntimes.com###hidden-parallax
-#@#[id^="google_ads_iframe"]
 kuyhaa.me##+js(aeld, load, daadb_get_data)
 adikcloud.my.id,adikdrive.my.id##+js(aopr, adBlockDetected)
 blog-dnz.com##+js(aopr, isAdBlockedDOM)
@@ -3756,7 +3754,7 @@ codeflare.net###adBlockInfo
 @@/fuckadblock.js$script,domain=harapansultra.com|pewarta-indonesia.com
 @@||exoclick.com/ads.js$script,domain=y2tube.pro
 @@||hetanews.com/js/googleafs.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=kbm.id
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bukutafsirmimpi.xyz|kbm.id
 padangbulan.co.id#@#.ad-center
 sharer.my.id#@#.showads
 @@||deras.id^$ghide
