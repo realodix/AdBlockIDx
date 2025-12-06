@@ -1,5 +1,5 @@
 ---
-name: AdBlockID Plus (Badware risks) v25.3.2
+name: AdBlockID Plus (Badware risks) v25.3.3
 ---
 # example.com/path-2/
 # https://regex101.com/r/m9B31Z/4
